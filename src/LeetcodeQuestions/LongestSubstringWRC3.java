@@ -25,5 +25,10 @@ public class LongestSubstringWRC3 {
 
         return maxLength;
     }
+    public static void main(String[] args) {
+        String string = "ydg7ywf";
+        int len = lengthOfLongestSubstring(string);
+        System.out.println(len);
+    }
 
 }
