@@ -25,4 +25,9 @@ public class LongestPalindromeSubstring5 {
        }
        return right - left - 1;
    }
+    public static void main(String[] args) {
+        String s = "baabjhviycv";
+        String string = longPal(s);
+        System.out.println(string);
+    }
 }
