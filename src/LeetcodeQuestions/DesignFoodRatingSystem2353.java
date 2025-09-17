@@ -59,4 +59,7 @@ public class DesignFoodRatingSystem2353 {
                 return this.name.compareTo(other.name); // Lexicographical order
             }
         }
+
+    public static void main(String[] args) {
+    }
 }
