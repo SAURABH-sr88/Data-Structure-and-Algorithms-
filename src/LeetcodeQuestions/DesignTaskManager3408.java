@@ -72,4 +72,8 @@ class DesignTaskManager3408 {
         taskMap.remove(top.taskId);
         return top.userId;
     }
+
+    public static void main(String[] args) {
+
+    }
 }
